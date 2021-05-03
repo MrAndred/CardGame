@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1V0UeXxPqIkwAjbbGc0PF9ncbVhz4XBPrepoCR9MtK6L/VHQ7Kh9wpfQ6FR5zxIImUQzAWWDxiz50ufw2aWlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иосиф CUMzone\\source\\repos\\Game\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иосиф CUMzone\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
